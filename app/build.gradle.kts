@@ -20,7 +20,7 @@ android {
 
     defaultConfig {
         applicationId = "com.neomods.libdumper"
-        minSdk = 29
+        minSdk = 27
         targetSdk = 36
         versionCode = 4
         versionName = "3.0.1"
